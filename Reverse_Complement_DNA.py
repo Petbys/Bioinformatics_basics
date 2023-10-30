@@ -1,7 +1,6 @@
 # Laboration 2
 # Question 3
 # Script to produce reverse complement FASTA file
-# Niklas Eckert Elfving, X3A
 # Give filename as argument in terminal when using script
 
 ################################################################################
